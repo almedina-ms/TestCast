@@ -1,0 +1,9 @@
+﻿BHID_EnumItems
+FOLDERID_*
+S_OK
+
+IShellItem
+IShellItem2
+IEnumShellItems
+
+SHGetKnownFolderItem
